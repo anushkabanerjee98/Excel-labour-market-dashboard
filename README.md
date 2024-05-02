@@ -9,7 +9,7 @@ Key Features:
 
 2. Temporal Analysis: Witness the temporal evolution of unemployment rates, dissecting the pandemic-induced surge in 2020 and its regional implications.
 
-3. Yearly Participation Trends:** Examine yearly trends in labor force participation, highlighting regions experiencing significant declines amidst the COVID-19 pandemic.
+3. Yearly Participation Trends: Examine yearly trends in labor force participation, highlighting regions experiencing significant declines amidst the COVID-19 pandemic.
 
 4. Correlation Analysis: Uncover correlations between unemployment rates and labor force participation, shedding light on broader economic implications.
 
